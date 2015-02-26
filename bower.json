@@ -1,0 +1,16 @@
+{
+  "name": "simple-event-emitter",
+  "version": "0.1",
+  "homepage": "https://github.com/shanhaichik/EventSystem.git",
+  "description": "Simple EventEmitter binding components. For example ReactJS components, or any others.",
+  "main": "EventSystem.js",
+  "keywords": [
+    "eventemitter",
+    "eventsystem"
+  ],
+  "license": "MIT",
+  "authors": {
+    "name": "Alexander Dukhovnyak",
+    "email": "shanhaichik@gmail.com"
+  }
+}
