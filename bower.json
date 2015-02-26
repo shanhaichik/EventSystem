@@ -4,6 +4,7 @@
   "homepage": "https://github.com/shanhaichik/EventSystem.git",
   "description": "Simple EventEmitter binding components. For example ReactJS components, or any others.",
   "main": "EventSystem.js",
+  "ignore":["LICENSE"],
   "keywords": [
     "eventemitter",
     "eventsystem"
